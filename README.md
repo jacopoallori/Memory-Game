@@ -1,4 +1,3 @@
-<h1 align="center">Progetto MemoryGame</h1>
 <img src="https://github.com/jacopoallori/Memory-Game/blob/master/MemoryGame.png" alt="HomePage MemoryGame">
 <div align="center">
 <h3>Languages and Tools:</h3>
