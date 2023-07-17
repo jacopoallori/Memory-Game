@@ -1,4 +1,4 @@
-<img src="https://github.com/jacopoallori/Js_Codegrind/blob/master/HomePageProgettoCodeGrind.png" alt="HomePage progetto">
+<img src="https://github.com/jacopoallori/Js_Codegrind/blob/master/HomePageProgettoCodeGrind.png" alt="HomePage MemoryGame">
 <div align="center">
 <h3>Languages and Tools:</h3>
 <p>
